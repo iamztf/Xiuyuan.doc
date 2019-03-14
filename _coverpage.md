@@ -9,4 +9,4 @@
 * 一个照片拍得烂代码一团糟的程序猿
 
 [GitHub](https://github.com/iamztf/xiuyuan-docs)
-[开始嘲讽](/home)
+[Get Started](/home)
