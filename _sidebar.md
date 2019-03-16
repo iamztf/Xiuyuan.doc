@@ -1,7 +1,11 @@
 * 一念前端
-    * [搬砖毁终生](/code/index)
-    * [模块机制](/code/base/module)
+    * [搬砖误终生](/code/index)
+    * 前端模块化
+        * [ES6](/code/f2e-base/module/es6)
 * 一瞬光影
     * [弃坑保平安](/photograph/index)
+    * [相机种类](/photograph/camera-type)
 * 一纸情愫
     * [酸辣毒鸡汤](/mood/index)
+    * 摘录
+        * [如果有来生](/mood/excerpt/如果有来生)

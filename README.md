@@ -11,3 +11,11 @@
 ## 启动本地服务
 
 > docsify serve ./
+
+## 目录
+
+**目录更改同时修改下面几个目录：**
+
+- _navbar.md
+- _sidebar.md
+- */_navbar.md
