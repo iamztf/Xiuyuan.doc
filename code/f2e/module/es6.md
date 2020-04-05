@@ -1,6 +1,6 @@
 `Chen修远` `公瑾` `{docsify-updated} 更新`
 
-*在 `ES6` 之前，社区制定了一些模块加载方案，最主要的有 `CommonJS` 和 `AMD` 两种。前者用于服务器，后者用于浏览器。`ES6` 在语言标准的层面上，实现了模块功能，而且实现得相当简单，完全可以取代 `CommonJS` 和 `AMD` 规范，成为浏览器和服务器通用的模块解决方案。参考[阮一峰 ECMAScript 6 入门 - Module 语法](http://es6.ruanyifeng.com/#docs/module)。*
+*在 `ES6` 之前，社区制定了一些模块加载方案，最主要的有 `CommonJS` 和 `AMD` 两种。前者用于服务器（Node），后者用于浏览器（JavaScript），虽说后来者 `UMD` 实现了前后端的统一，但也只是语法糖，根本上并没有解决问题。`ES6` 在语言标准的层面上，实现了模块功能，而且实现得相当简单，完全可以取代 `CommonJS` 和 `AMD` 以至于两个的语法糖 `UMD`，成为浏览器和服务器通用的模块解决方案。本文参考 [阮一峰 ECMAScript 6 入门 - Module 语法](http://es6.ruanyifeng.com/#docs/module) ，下面详细介绍 `ES6` 的模块化机制。*
 
 ## 静态化的设计思想
 
