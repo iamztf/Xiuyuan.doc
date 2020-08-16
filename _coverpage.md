@@ -8,5 +8,5 @@
 * 一个热爱摄影的程序猿
 * 一个照片拍得烂代码一团糟的程序猿
 
-[GitHub](https://github.com/iamztf/xiuyuan-docs)
+[GitHub](https://github.com/iamztf/Xiuyuan.doc)
 [进去瞧瞧](/home)

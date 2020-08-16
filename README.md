@@ -6,7 +6,7 @@
 
 ## GitHub
 
-> [点击前往](https://github.com/iamztf/xiuyuan-docs)
+> [点击前往](https://github.com/iamztf/Xiuyuan.doc)
 
 ## 启动本地服务
 

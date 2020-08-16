@@ -4,7 +4,7 @@
 
 ## ES6
 
-`ES` 模块规范详见 [模块化-ES6](https://iamztf.github.io/Xiuyuan.doc/#/code/f2e/module/es6)
+`ES6` 模块规范是从语言标准层面实现的浏览器、服务器通用的模块解决方案。该方案采用静态化思想，编译时就能确定模块依赖关系、输入输出变量，从而使静态分析成为可能，详细请看 [模块化-ES6](https://iamztf.github.io/Xiuyuan.doc/#/code/f2e/module/es6)。
 
 ## CommonJS
 
